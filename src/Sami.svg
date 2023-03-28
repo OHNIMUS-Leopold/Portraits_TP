@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Sami" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #996117;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: #603d21;
+      }
+
+      .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-4 {
+        fill: #e5b188;
+      }
+
+      .cls-5 {
+        fill: #fd8e9f;
+      }
+    </style>
+  </defs>
+  <rect id="CheveuxCotes" class="cls-3" x="106.86" y="141.71" width="187.14" height="82.86" rx="9.78" ry="9.78"/>
+  <g id="Visage">
+    <path class="cls-4" d="m200.43,326h0c-42.82,0-77.86-35.04-77.86-77.86v-75.81c0-14.48,11.85-26.33,26.33-26.33h103.05c14.48,0,26.33,11.85,26.33,26.33v75.81c0,42.82-35.04,77.86-77.86,77.86Z"/>
+  </g>
+  <g id="Cheveux">
+    <circle class="cls-3" cx="157.57" cy="138.14" r="23.57"/>
+    <circle class="cls-3" cx="146.14" cy="118.14" r="23.57"/>
+    <circle class="cls-3" cx="193.29" cy="133.86" r="23.57"/>
+    <circle class="cls-3" cx="201.86" cy="122.43" r="23.57"/>
+    <circle class="cls-3" cx="260.43" cy="146.71" r="23.57"/>
+    <circle class="cls-3" cx="230.43" cy="138.14" r="23.57"/>
+    <circle class="cls-3" cx="203.29" cy="106.71" r="23.57"/>
+    <circle class="cls-3" cx="240.43" cy="118.14" r="23.57"/>
+    <circle class="cls-3" cx="269.06" cy="133.88" r="23.57"/>
+    <circle class="cls-3" cx="169" cy="99.57" r="23.57"/>
+    <circle class="cls-3" cx="134" cy="107.43" r="31.43"/>
+    <circle class="cls-3" cx="126.14" cy="142.43" r="32.14"/>
+    <path class="cls-1" d="m111.86,110.29h0c0-14.14,11.57-25.71,25.71-25.71"/>
+    <path class="cls-1" d="m116.14,146h0c0-9.04,7.39-16.43,16.43-16.43"/>
+    <path class="cls-1" d="m158.67,109.06h0c2.51-6.62,9.98-9.99,16.6-7.48"/>
+  </g>
+  <g id="OreilleG">
+    <path class="cls-4" d="m122.57,231.5v-31.21c-.1,0-.2,0-.31,0-11.83,0-21.43,9.59-21.43,21.43s9.59,21.43,21.43,21.43c.1,0,.21,0,.31,0v-11.63Z"/>
+    <path class="cls-5" d="m122.57,231.5c-.1,0-.2,0-.31,0-5.41,0-9.8-4.38-9.8-9.8s4.38-9.8,9.8-9.8c.1,0,.21,0,.31,0v19.58Z"/>
+  </g>
+  <g id="OreilleD">
+    <path class="cls-4" d="m278.29,243.14c.1,0,.2,0,.31,0,11.83,0,21.43-9.59,21.43-21.43,0-11.83-9.59-21.43-21.43-21.43-.1,0-.21,0-.31,0v11.63s0,19.58,0,19.58v11.63Z"/>
+    <path class="cls-5" d="m278.29,211.92c.1,0,.2,0,.31,0,5.41,0,9.8,4.38,9.8,9.8s-4.38,9.8-9.8,9.8c-.1,0-.21,0-.31,0v-19.58Z"/>
+  </g>
+  <g id="OeilG">
+    <circle cx="171.86" cy="211" r="7.86"/>
+    <rect class="cls-3" x="145.43" y="188.07" width="44.29" height="12.22" rx="4" ry="4"/>
+  </g>
+  <g id="OeilD">
+    <circle cx="231.86" cy="211" r="7.86"/>
+    <rect class="cls-3" x="214" y="188.07" width="44.29" height="12.22" rx="4" ry="4" transform="translate(472.29 388.35) rotate(-180)"/>
+  </g>
+  <g id="Nez">
+    <circle class="cls-2" cx="196.14" cy="251" r="1.43"/>
+    <circle class="cls-2" cx="207.57" cy="251" r="1.43"/>
+  </g>
+  <path id="Bouche" class="cls-5" d="m203.06,281c-3.48-.34-30.64-2.77-27.9,4.06,3.01,7.53,25.64,7.47,27.9,7.44,2.26.03,24.89.09,27.9-7.44,2.73-6.83-24.43-4.4-27.9-4.06Z"/>
+</svg>
